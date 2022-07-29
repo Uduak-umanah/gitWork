@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="enter_your_zip_code">Enter Your Zip Code</string>
+    <string name="enter_your_zip_code_here">Enter your zip code here</string>
+    <string name="submit_zip_code">Submit Zip Code</string>
+    <string name="zip_code_entry_error"> please enter a valid input</string>
 </resources>
